@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.bak
+*.backup*
+*.orig
+.DS_Store
+Simulation_Files/models/car/model.sdf.backup_before_box
+Simulation_Files/models/car/model.sdf.bak
+Simulation_Files/models/car/model.sdf.before_collision_centering
+Simulation_Files/models/car/model.sdf.before_collision_fix.bak
+Simulation_Files/models/car/model.sdf.before_static_test
